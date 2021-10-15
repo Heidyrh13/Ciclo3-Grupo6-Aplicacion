@@ -6,7 +6,9 @@
             <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
                 <div class="col-12 col-lg-5 col-md-6">
                     <h2 class="display-4 lh-1 mb-4 text-title">ABOUT US</h2>
-                    <p class="lead fw-normal text-muted mb-5 mb-lg-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquia.</p>
+                    <p class="lead fw-normal text-muted mb-5 mb-lg-0">Nacimos como una empresa que quiere darle a los Colombianos una alternativa de vuelos más seguro y con mejores precios.</p>
+                    <br/>
+                    <p class="lead fw-normal text-muted mb-5 mb-lg-0">Más que vender vuelos, vendemos sueños. Volar es una manera de liberarse, encontrarse y disfrutar de una nueva aventura.</p>
                     <a class="btn btn-outline-light btn-social mx-1 mt-5" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1 mt-5" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1 mt-5" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
